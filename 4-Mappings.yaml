@@ -1,5 +1,6 @@
 Mappings:
 #githubtest1
+#githubtest2
   RegionMap:
     us-east-1:
       AMI: ami-1853ac65
